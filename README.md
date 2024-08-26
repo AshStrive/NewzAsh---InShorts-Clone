@@ -1,1 +1,1 @@
-# NewzAsh---InShorts-Clone
+# NewzAsh-InShorts-Clone
